@@ -1,0 +1,15 @@
+# db
+db.sqlite3
+
+# python virtual environment
+env
+
+# node modules
+node_modules
+
+# pyc files abd pycache
+__pycache__
+*.pyc
+
+# DS_Store files generated in mac
+**/.DS_Store
